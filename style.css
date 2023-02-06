@@ -1,0 +1,16 @@
+#music-player {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+audio {
+  width: 50%;
+  margin-top: 2em;
+}
+
+#song-title {
+  font-size: 1.5em;
+  margin-top: 1em;
+}
